@@ -1,3 +1,3 @@
-def greetings_seven_times
-  puts "Greetings"
-end
+def greeting
+  puts "Hello World"
+end 
